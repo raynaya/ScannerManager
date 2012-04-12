@@ -1,0 +1,5 @@
+G:\CloudFinal\ScannerManager\ScannerManager\bin\Debug\ScannerManager.exe
+G:\CloudFinal\ScannerManager\ScannerManager\bin\Debug\ScannerManager.pdb
+G:\CloudFinal\ScannerManager\ScannerManager\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CloudFinal\ScannerManager\ScannerManager\obj\x86\Debug\ScannerManager.exe
+G:\CloudFinal\ScannerManager\ScannerManager\obj\x86\Debug\ScannerManager.pdb
